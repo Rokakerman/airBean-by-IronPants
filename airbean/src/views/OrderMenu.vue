@@ -54,6 +54,7 @@ export default {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  position: relative;
 }
 h1 {
   display: flex;
