@@ -22,7 +22,8 @@ nav {
   width: 100vw;
   min-height: 6.8rem;
   background-image: url('./assets/graphics/graphics-header.svg');
-  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
