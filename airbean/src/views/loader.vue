@@ -7,7 +7,7 @@
 <script>
 export default {
   created() {
-    setTimeout(() => this.$router.push('/status'), 5000)
+    setTimeout(() => this.$router.push('/status'), 4000)
   }
 }
 </script>
@@ -17,7 +17,7 @@ export default {
   width: 100vw;
   height: 100vh;
   margin: auto;
-  background-color: #2f2926;
+  background-color: #e5674e;
   display: flex;
   justify-content: center;
   align-items: center;
