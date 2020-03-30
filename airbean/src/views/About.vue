@@ -73,10 +73,9 @@ export default {
   width: 100vw;
   min-height: 100vh;
   background-color: #f3e4e1;
-  background-image: url('../assets/graphics/graphics-header.svg'),
-    url('../assets/graphics/graphics-footer.svg');
-  background-position: top, bottom;
-  background-repeat: no-repeat, no-repeat;
+  background-image: url('../assets/graphics/graphics-footer.svg');
+  background-position: bottom;
+  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
