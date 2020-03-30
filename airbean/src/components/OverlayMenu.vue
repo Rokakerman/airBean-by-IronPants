@@ -61,7 +61,7 @@ export default {
 <style scoped>
 section {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
 }
 .close-button {
   position: sticky;
