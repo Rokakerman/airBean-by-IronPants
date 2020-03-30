@@ -72,8 +72,6 @@ export default {
 
 .wrapper-cart {
   width: 100vw;
-  min-height: 100vh;
-  overflow-y: scroll;
   position: absolute;
   @include flex();
   justify-content: flex-start;
